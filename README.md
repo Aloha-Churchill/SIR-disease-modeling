@@ -1,1 +1,2 @@
-# SIR_disease_modeling
+# SIR Disease Modeling
+
