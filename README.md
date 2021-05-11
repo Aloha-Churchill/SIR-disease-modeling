@@ -26,7 +26,7 @@ sir_binomial.py
 In practice, limited to data and difficult to estimate parameters (reproduction number, transmission rate)
 Parameters can be biologically predicted (due to molecular biology of disease) but are there ways to derive it given data?
 
-***Estimating Reproduction Number (R0)***
+**Estimating Reproduction Number (R0)**
 
 Most epidemics can be approximated by exponential function during initial phase of epidemic.
 sir_with_testing.py
