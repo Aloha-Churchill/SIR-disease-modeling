@@ -18,7 +18,6 @@ Introducing vital dynamics (births and deaths) mu = birth rate and nu = death ra
 
 **Discrete SIR Model**
 
-https://kingaa.github.io/short-course/stochsim/stochsim.html
 sir_binomial.py
 
 **Estimating Rates**
