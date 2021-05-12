@@ -1,5 +1,11 @@
 # SIR Disease Modeling
 
+
+**Link to Heroku Application Animation**
+
+https://colorado-covid.herokuapp.com/
+
+
 This repository contains code for modeling various versions of the SIR model for infectious diseases. 
 
 **Introduction**
